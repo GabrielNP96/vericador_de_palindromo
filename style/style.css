@@ -48,3 +48,11 @@ hr {
     text-shadow: none;
 }
 
+.btn:hover {
+    background-color: #88abda;
+}
+
+.btn:active {
+    background-color: #78a7e4;
+}
+
